@@ -1,14 +1,14 @@
-# Título do Projeto
+# Central Super Heroi
 
 
 ![Capa do Projeto](https://picsum.photos/850/280)
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
-
 <h4 align="center"> 
-	🚧  Em desenvolvimento . . .
+Plataforma Web de entretenimento integrada com API da Marvel Comics.
+Esta plataforma permitiria acesso a histórias em quadrinhos, informações de personagens e seus criadores, fotos, etc.
+Através da plataforma qualquer tipo de usuário sem a necessidade contratar um serviço de streaming ou assinatura, ou até mesmo de comprar uma revista teria acesso a diversos conteúdos.
 </h4>
 
 # Índice/Sumário
@@ -25,12 +25,6 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
 
 # Tecnologias Usadas
 
@@ -46,7 +40,22 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+Arthur Andrade Rosa – 119118540
+
+Bruno Conrado da Silva – 12114539
+
+Daniel Avelino de Paula – 1221116214
+
+Ednei Rosa Ferreira – 120112951 (Líder do Grupo)
+
+Murilo Drumond – 118116548
+
+Otávio Reis Viana – 11815319
+
+Wagner Artur Paulino Jamar - 119213656
+
+Wilkerman Viana Lopes - 11722353
+
 
 # Licença
 
