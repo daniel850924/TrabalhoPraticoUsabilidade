@@ -6,7 +6,7 @@
 
 <h4 align="left"> 
 Plataforma Web de entretenimento integrada com API da Marvel Comics.</br>
-Esta plataforma permitiria acesso a histórias em quadrinhos, informações de personagens e seus criadores, fotos, etc.</br>
+Esta plataforma permitirá acesso a histórias em quadrinhos, informações de personagens e seus criadores, fotos, lançamento de filmes e series</br>
 Através da plataforma qualquer tipo de usuário sem a necessidade contratar um serviço de streaming ou assinatura, ou até mesmo de comprar uma revista teria acesso a diversos conteúdos.
 </h4>
 
