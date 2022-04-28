@@ -1,13 +1,13 @@
 # Central Super Heroi
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto]
 
 # Sobre o Projeto
 
-<h4 align="center"> 
+<h4 align="left"> 
 Plataforma Web de entretenimento integrada com API da Marvel Comics.</br>
-Esta plataforma permitiria acesso a histórias em quadrinhos, informações de personagens e seus criadores, fotos, etc.
+Esta plataforma permitiria acesso a histórias em quadrinhos, informações de personagens e seus criadores, fotos, etc.</br>
 Através da plataforma qualquer tipo de usuário sem a necessidade contratar um serviço de streaming ou assinatura, ou até mesmo de comprar uma revista teria acesso a diversos conteúdos.
 </h4>
 
