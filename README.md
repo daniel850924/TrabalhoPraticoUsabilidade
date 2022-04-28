@@ -6,7 +6,7 @@
 # Sobre o Projeto
 
 <h4 align="center"> 
-Plataforma Web de entretenimento integrada com API da Marvel Comics.
+Plataforma Web de entretenimento integrada com API da Marvel Comics.</br>
 Esta plataforma permitiria acesso a histórias em quadrinhos, informações de personagens e seus criadores, fotos, etc.
 Através da plataforma qualquer tipo de usuário sem a necessidade contratar um serviço de streaming ou assinatura, ou até mesmo de comprar uma revista teria acesso a diversos conteúdos.
 </h4>
