@@ -1,6 +1,6 @@
 # Central Super Heroi
 
-https://ingresso-a.akamaihd.net/b2b/production/uploads/article/image/267/imagem-destaque-melhores-equipes-de-super-herois.jpg
+![Capa do Projeto](https://ingresso-a.akamaihd.net/b2b/production/uploads/article/image/267/imagem-destaque-melhores-equipes-de-super-herois.jpg)
 
 # Sobre o Projeto
 
