@@ -23,6 +23,12 @@ Através da plataforma qualquer tipo de usuário sem a necessidade contratar um 
 
 
 # Requisitos Funcionais 
+- R1 - Apresentar a lista de personagens da Marvel com uma foto de identificação.
+- R2 - Permitir ao usuário filtrar um personagem da lista apresentada na tela.
+- R3 - Quando o usuário selecionar o personagem desejado clicando em sua foto, deverá abrir um modal com nome, foto do personagem e duas opções de consulta sobre ele (história e quadrinhos).
+- R3.1 - Quando o usuário clicar em História será apresentado a história do personagem selecionado.
+- R3.2 - Quando o usuário clicar em Quadrinhos será apresentada a lista de quadrinhos do personagem selecionado.
+- R4 - Quando o usuário clicar fora do modal ele será fechado automaticamente.
 
 
 # Tecnologias Usadas
