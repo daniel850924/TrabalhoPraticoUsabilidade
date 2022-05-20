@@ -1,6 +1,8 @@
 # Legado Marvel
 
-![Capa do Projeto](https://images6.alphacoders.com/441/441993.jpg)
+![Capa do Projeto](https://drive.google.com/drive/folders/15ApQELy_1NhW9ztI4edyoUUf5R1Wcd64)
+
+https://images6.alphacoders.com/441/441993.jpg
 
 # Sobre o Projeto
 
