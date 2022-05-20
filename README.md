@@ -6,7 +6,7 @@
 
 <h4 align="left"> 
 Plataforma Web de entretenimento integrada com API da Marvel Comics.</br>
-Esta plataforma permitirá acesso a histórias em quadrinhos, informações de personagens e seus criadores, fotos, lançamento de filmes e series</br>
+Esta plataforma permitirá acesso a informações de personagens e suas histórias em quadrinhos</br>
 Através da plataforma qualquer tipo de usuário sem a necessidade contratar um serviço de streaming ou assinatura, ou até mesmo de comprar uma revista teria acesso a diversos conteúdos.
 </h4>
 
@@ -23,21 +23,18 @@ Através da plataforma qualquer tipo de usuário sem a necessidade contratar um 
 
 
 # Requisitos Funcionais 
-- R1 - Apresentar a lista de personagens da Marvel com uma foto de identificação.
+- R1 - Apresentar a lista de personagens da Marvel com uma foto de identificação e nome.
 - R2 - Permitir ao usuário filtrar um personagem da lista apresentada na tela.
-- R3 - Quando o usuário selecionar o personagem desejado clicando em sua foto, deverá abrir um modal com nome, foto do personagem e duas opções de consulta sobre ele (história e quadrinhos).
+- R3 - Quando o usuário selecionar o personagem desejado clicando em sua foto, deverá abrir uma nova página com nome, foto do personagem e duas opções de consulta sobre ele (história e quadrinhos).
 - R3.1 - Quando o usuário clicar em História será apresentado a história do personagem selecionado.
 - R3.2 - Quando o usuário clicar em Quadrinhos será apresentada a lista de quadrinhos do personagem selecionado.
-- R4 - Quando o usuário clicar fora do modal ele será fechado automaticamente.
+
 
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+
 
 # Contribuição
 
