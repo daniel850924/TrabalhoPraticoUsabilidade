@@ -1,5 +1,7 @@
 # Legado Marvel
 
+<img src="C:/Ednei/LegadoMarvel-Logo-vazada.png">
+
 ![Capa do Projeto](https://drive.google.com/drive/folders/15ApQELy_1NhW9ztI4edyoUUf5R1Wcd64)
 
 https://images6.alphacoders.com/441/441993.jpg
