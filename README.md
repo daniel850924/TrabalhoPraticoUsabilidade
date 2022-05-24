@@ -1,7 +1,5 @@
-# Legado Marvel
-
-![Capa do Projeto](https://github.com/daniel850924/TrabalhoPraticoUsabilidade/blob/2f4cde8132a7a7e4e55e16c9e4745da60195fdb7/Logo/LegadoMarvel-Logo-vazada.png?style=centerme)
-
+![Capa do Projeto](https://github.com/daniel850924/TrabalhoPraticoUsabilidade/blob/2f4cde8132a7a7e4e55e16c9e4745da60195fdb7/Logo/LegadoMarvel-Logo-vazada.png)
+# Seus personagens preferidos num só lugar!
 
 
 
@@ -11,7 +9,7 @@
 <h4 align="left"> 
 Plataforma Web de entretenimento integrada com API da Marvel Comics.</br>
 Esta plataforma permitirá acesso a informações de personagens e suas histórias em quadrinhos</br>
-Através da plataforma qualquer tipo de usuário sem a necessidade contratar um serviço de streaming ou assinatura, ou até mesmo de comprar uma revista teria acesso a diversos conteúdos.
+Através da plataforma o usuário poderia realizar a consulta de seu personagem preferido e conhecer sua história e seus quadrinhos.
 </h4>
 
 # Índice/Sumário
