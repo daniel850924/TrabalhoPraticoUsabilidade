@@ -1,6 +1,8 @@
 # Legado Marvel
 
-![Capa do Projeto](https://images6.alphacoders.com/441/441993.jpg)
+![Capa do Projeto](https://github.com/daniel850924/TrabalhoPraticoUsabilidade/blob/2f4cde8132a7a7e4e55e16c9e4745da60195fdb7/Logo/LegadoMarvel-Logo-vazada.png)
+
+
 
 
 
