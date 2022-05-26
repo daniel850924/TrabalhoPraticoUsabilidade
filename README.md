@@ -31,7 +31,8 @@ Através da plataforma o usuário poderia realizar a consulta de seu personagem 
 - R3.1 - Quando o usuário clicar em História será apresentado a história do personagem selecionado.
 - R3.2 - Quando o usuário clicar em Quadrinhos será apresentada a lista de quadrinhos do personagem selecionado.
 
-
+# Protótipo de alta fidelidade
+https://www.figma.com/proto/JHEHIFLcR1tL2TonKlfiLS/LegadoMarvel?node-id=1%3A2&starting-point-node-id=1%3A2
 
 # Tecnologias Usadas
 
