@@ -38,8 +38,8 @@ https://www.figma.com/proto/o5y1XbnhGl1n2rtcVvskhd/Legado-Marvel?page-id=0%3A1&n
 # Tecnologias Usadas
 
 - [React](https://pt-br.reactjs.org/)
-- JS
-- CSS
+- [Js](https://www.javascript.com/)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 
 # Contribuição
