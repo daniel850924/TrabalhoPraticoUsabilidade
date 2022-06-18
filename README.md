@@ -1,8 +1,20 @@
 ![Capa do Projeto](https://github.com/daniel850924/TrabalhoPraticoUsabilidade/blob/2f4cde8132a7a7e4e55e16c9e4745da60195fdb7/Logo/LegadoMarvel-Logo-vazada.png)
+
 # Seus personagens preferidos num só lugar!
 
+# Telas do sistema
 
+<h1 align="center">
+    <img width= '450' src=".\Telas\tela-home.png">
+</h1>
 
+<h1 align="center">
+    <img width= '450' src=".\Telas\tela-hero.png">
+</h1>
+
+<h1 align="center">
+    <img width= '450' src=".\Telas\tela-about.png">
+</h1>
 
 # Sobre o Projeto
 
@@ -14,37 +26,40 @@ Através da plataforma o usuário poderia realizar a consulta de seu personagem 
 
 # Índice/Sumário
 
-* [Sobre](#sobre-o-projeto)
-* [Sumário](#índice/sumário)
-* [Requisitos Funcionais](#requisitos-funcionais)
-* [Tecnologias Usadas](#tecnologias-usadas)
-* [Contribuição](#contribuição)
-* [Autores](#autores)
-* [Licença](#licença)
-* [Agradecimentos](#agradecimentos)
+- [Sobre](#sobre-o-projeto)
+- [Sumário](#índice/sumário)
+- [Requisitos Funcionais](#requisitos-funcionais)
+- [Tecnologias Usadas](#tecnologias-usadas)
+- [Contribuição](#contribuição)
+- [Autores](#autores)
+- [Licença](#licença)
+- [Agradecimentos](#agradecimentos)
 
+# Requisitos Funcionais
 
-# Requisitos Funcionais 
 - R1 - Apresentar a lista de personagens da Marvel com uma foto de identificação e nome.
-- R2 - Permitir ao usuário filtrar um personagem da lista apresentada na tela.
-- R3 - Quando o usuário selecionar o personagem desejado clicando em sua foto, deverá abrir uma nova página com nome, foto do personagem e duas opções de consulta sobre ele (história e quadrinhos).
-- R3.1 - Quando o usuário clicar em História será apresentado a história do personagem selecionado.
-- R3.2 - Quando o usuário clicar em Quadrinhos será apresentada a lista de quadrinhos do personagem selecionado.
+- R2 - Permitir ao usuário filtrar um personagem na tela.
+- R3 - Quando o usuário selecionar o personagem desejado clicando em sua foto, deverá abrir uma nova janela (modal) com nome, foto do personagem, seu nome, a descrição e uma lista dos quadrinhos que apresentam esse personagem.
+- R3.1 - Quando o usuário clicar fora da janela (modal) ela deverá ser fechada.
 
-#  Protótipo de alta fidelidade 
+# Protótipo de baixa fidelidade
 
-https://www.figma.com/proto/o5y1XbnhGl1n2rtcVvskhd/Legado-Marvel?page-id=0%3A1&node-id=3%3A5&viewport=571%2C95%2C0.16&scaling=min-zoom&starting-point-node-id=3%3A5
+https://github.com/daniel850924/TrabalhoPraticoUsabilidade/blob/main/Prototipos/Prototipo_Baixa_Fidelidade_Rev1.pdf
+
+# Protótipo de alta fidelidade
+
+https://github.com/daniel850924/TrabalhoPraticoUsabilidade/blob/main/Prototipos/Prototipo_Alta_Fidelidade_Rev1.pdf
 
 # Tecnologias Usadas
 
+- [Api Marvel Developer](https://developer.marvel.com/)
 - [React](https://pt-br.reactjs.org/)
 - [Js](https://www.javascript.com/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-
 # Contribuição
 
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
+Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações _pull_ (_Pull Request_) para nós.
 
 # Autores
 
@@ -64,10 +79,9 @@ Wagner Artur Paulino Jamar - 119213656
 
 Wilkerman Viana Lopes - 11722353
 
-
 # Licença
 
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
 # Agradecimentos
 
