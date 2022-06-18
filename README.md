@@ -38,17 +38,21 @@ Através da plataforma o usuário poderia realizar a consulta de seu personagem 
 # Requisitos Funcionais
 
 - R1 - Apresentar a lista de personagens da Marvel com uma foto de identificação e nome.
-- R2 - Permitir ao usuário filtrar um personagem da lista apresentada na tela.
-- R3 - Quando o usuário selecionar o personagem desejado clicando em sua foto, deverá abrir uma nova página com nome, foto do personagem e duas opções de consulta sobre ele (história e quadrinhos).
-- R3.1 - Quando o usuário clicar em História será apresentado a história do personagem selecionado.
-- R3.2 - Quando o usuário clicar em Quadrinhos será apresentada a lista de quadrinhos do personagem selecionado.
+- R2 - Permitir ao usuário filtrar um personagem na tela.
+- R3 - Quando o usuário selecionar o personagem desejado clicando em sua foto, deverá abrir uma nova janela (modal) com nome, foto do personagem, seu nome, a descrição e uma lista dos quadrinhos que apresentam esse personagem.
+- R3.1 - Quando o usuário clicar fora da janela (modal) ela deverá ser fechada.
+
+# Protótipo de baixa fidelidade
+
+https://github.com/daniel850924/TrabalhoPraticoUsabilidade/blob/main/Prototipos/Prototipo_Baixa_Fidelidade_Rev1.pdf
 
 # Protótipo de alta fidelidade
 
-https://www.figma.com/proto/o5y1XbnhGl1n2rtcVvskhd/Legado-Marvel?page-id=0%3A1&node-id=3%3A5&viewport=571%2C95%2C0.16&scaling=min-zoom&starting-point-node-id=3%3A5
+https://github.com/daniel850924/TrabalhoPraticoUsabilidade/blob/main/Prototipos/Prototipo_Alta_Fidelidade_Rev1.pdf
 
 # Tecnologias Usadas
 
+- [Api Marvel Developer] (https://developer.marvel.com/)
 - [React](https://pt-br.reactjs.org/)
 - [Js](https://www.javascript.com/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
