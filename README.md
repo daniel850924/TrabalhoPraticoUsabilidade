@@ -52,7 +52,7 @@ https://github.com/daniel850924/TrabalhoPraticoUsabilidade/blob/main/Prototipos/
 
 # Tecnologias Usadas
 
-- [Api Marvel Developer] (https://developer.marvel.com/)
+- [Api Marvel Developer](https://developer.marvel.com/)
 - [React](https://pt-br.reactjs.org/)
 - [Js](https://www.javascript.com/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
