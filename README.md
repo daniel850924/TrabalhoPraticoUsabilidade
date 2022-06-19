@@ -2,19 +2,20 @@
 
 # Seus personagens preferidos num só lugar!
 
-# Telas do sistema
+# Índice/Sumário
 
-<h1 align="center">
-    <img width= '450' src=".\Telas\tela-home.png">
-</h1>
-
-<h1 align="center">
-    <img width= '450' src=".\Telas\tela-hero.png">
-</h1>
-
-<h1 align="center">
-    <img width= '450' src=".\Telas\tela-about.png">
-</h1>
+- [Sumário](#índice/sumário)
+- [Sobre](#sobre-o-projeto)
+- [Requisitos Funcionais](#requisitos-funcionais)
+- [Protótipo de baixa fidelidade](# Protótipo-de-baixa-fidelidade)
+- [Protótipo de alta fidelidade](# Protótipo-de-alta-fidelidade)
+- [Tecnologias Usadas](#tecnologias-usadas)
+- [Telas do sistema](#telas-do-sistema)
+- [Como executar o código](#como-executar-o-código)
+- [Contribuição](#contribuição)
+- [Autores](#autores)
+- [Licença](#licença)
+- [Agradecimentos](#agradecimentos)
 
 # Sobre o Projeto
 
@@ -23,17 +24,6 @@ Plataforma Web de entretenimento integrada com API da Marvel Comics.</br>
 Esta plataforma permitirá acesso a informações de personagens e suas histórias em quadrinhos</br>
 Através da plataforma o usuário poderia realizar a consulta de seu personagem preferido e conhecer sua história e seus quadrinhos.
 </h4>
-
-# Índice/Sumário
-
-- [Sobre](#sobre-o-projeto)
-- [Sumário](#índice/sumário)
-- [Requisitos Funcionais](#requisitos-funcionais)
-- [Tecnologias Usadas](#tecnologias-usadas)
-- [Contribuição](#contribuição)
-- [Autores](#autores)
-- [Licença](#licença)
-- [Agradecimentos](#agradecimentos)
 
 # Requisitos Funcionais
 
@@ -55,7 +45,27 @@ https://github.com/daniel850924/TrabalhoPraticoUsabilidade/blob/main/Prototipos/
 - [Api Marvel Developer](https://developer.marvel.com/)
 - [React](https://pt-br.reactjs.org/)
 - [Js](https://www.javascript.com/)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Material Design](https://material.io/)
+
+# Telas do sistema
+
+<h1 align="center">
+    <img width= '450' src=".\Telas\tela-home.png">
+</h1>
+
+<h1 align="center">
+    <img width= '450' src=".\Telas\tela-hero.png">
+</h1>
+
+<h1 align="center">
+    <img width= '450' src=".\Telas\tela-about.png">
+</h1>
+
+# Como executar o código
+
+- Clonar o repositório.
+- Executar o comando npm install.
+- Executar o comando nmp start.
 
 # Contribuição
 
